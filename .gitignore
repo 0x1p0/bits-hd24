@@ -1,0 +1,9 @@
+venv/
+__pycache__/
+*.pyc
+.DS_Store
+BITS HD Admissions - Responses - 2024.csv
+BITS_HD_2024_clean.csv
+bits_hd_2024.json
+clean_csv.py
+clean_json.py
